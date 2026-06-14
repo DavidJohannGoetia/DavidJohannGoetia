@@ -8,4 +8,4 @@ Self-directed study in mathematics and theoretical physics, building toward rese
 **Building** — Project INERA · SLAM, simulation-before-action robotics  
 **Stack** — Python · C++ · Rust · ROS 2 · Linux  
  
-[google.dev](https://g.dev/davidjohanngoetia) · [email](mailto:davidjohanngoetia@gmail.com) · [linkedin](https://www.linkedin.com/in/david-sonjic-9b1328268/)
+[website][https://davidjohanngoetia.com/] · [google.dev](https://g.dev/davidjohanngoetia) · [email](mailto:davidjohanngoetia@gmail.com) · [linkedin](https://www.linkedin.com/in/david-sonjic-9b1328268/)
